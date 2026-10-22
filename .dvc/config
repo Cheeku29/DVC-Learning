@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\gupta\OneDrive\Desktop\MLOPS\DVC-Learning\DVC-Learning
+    url = C:\Users\gupta\AppData\Local\Temp\DVC-Learning
